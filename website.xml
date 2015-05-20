@@ -1,0 +1,32 @@
+<website>
+ <page name="index" title="Home Page">
+  <h1>Welcome to My Home Page</h1>
+
+  <p>Hi, there. my name is Alex, and this is my home page, Here are some of my roommates:</p>
+
+  <ul>
+   <li><a href="roommates/Mr.Hu.html"></a>Mr.Hu</li>
+   <li><a href="roommates/Mr.Zhang.html">Mr.Zhang</a></li>
+   <li><a href="roommates/Mr.Guo.html">Mr.Guo</a></li>
+  </ul>
+ </page>
+ <directory name="roommates">
+  <page name="Mr.Hu" title="Mr.Hu">
+   <h1>Mr.Hu's Home Page</h1>
+
+   <p>...</p>
+  </page>
+ 
+  <page name="Mr.Zhang" title="Mr.Zhang">
+   <h1>Mr.Zhang's Home Page</h1>
+
+   <p>...</p>
+  </page>
+
+  <page name="Mr.Guo" title="Mr.Guo">
+   <h1>Mr.Guo's Home Page</h1>
+
+   <p>...</p>
+  </page>
+ </directory>
+</website>
