@@ -1,4 +1,5 @@
 from numpy import *
+#the output is different from the book
 def loadDataSet():
     postingList = [['my','dog','has','flea','problems','help','please'],
                    ['maybe','not','take','him','to','dog','park','stupid'],
